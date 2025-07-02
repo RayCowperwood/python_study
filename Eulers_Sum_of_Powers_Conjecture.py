@@ -1,5 +1,8 @@
 import time
 
+#This Python program uses nested loops to search for a counterexample to 
+# Euler's Sum of Powers Conjecture for the 5th power 
+
 start = time.time()
 
 for a in range(3, 150):
